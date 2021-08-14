@@ -275,6 +275,7 @@ margin: 0 !important;">
 
 <!-- Initialize Firebase -->
 <script src="/__/firebase/init.js"></script>
+    
 <script src="js/script.js"></script>
 <!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script> -->
 
